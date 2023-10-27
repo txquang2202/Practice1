@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tratienchotao/static/css/main.a4c28843.css",
+    "main.js": "/tratienchotao/static/js/main.60b17d17.js",
+    "static/js/787.81217180.chunk.js": "/tratienchotao/static/js/787.81217180.chunk.js",
+    "index.html": "/tratienchotao/index.html",
+    "main.a4c28843.css.map": "/tratienchotao/static/css/main.a4c28843.css.map",
+    "main.60b17d17.js.map": "/tratienchotao/static/js/main.60b17d17.js.map",
+    "787.81217180.chunk.js.map": "/tratienchotao/static/js/787.81217180.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.60b17d17.js"
+  ]
+}
